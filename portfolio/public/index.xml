@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian&#39;s Portfolio</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Brian&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Feb 2025 21:21:41 -0500</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Sun, 09 Feb 2025 21:21:41 -0500</pubDate>
+      <guid>https://example.org/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Résumé</title>
+      <link>https://example.org/resume/</link>
+      <pubDate>Sun, 09 Feb 2025 21:11:50 -0500</pubDate>
+      <guid>https://example.org/resume/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;This is my Resume&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Sun, 09 Feb 2025 15:55:12 -0500</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;This is my About page.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
